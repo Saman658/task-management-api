@@ -41,11 +41,17 @@ A RESTful Task Management API built with Node.js, Express.js, and PostgreSQL.
 ## API Base URL
 
 `http://localhost:5000`
-
 ## Testing
 
 API endpoints were tested using Postman.
 
+The Postman collection is available in the repository:
+
+`task-management-api.postman_collection.json`
+
+Import this JSON file into Postman to access the saved API requests.
+
 ## Author
 
 Sehrish Tanzeel
+
